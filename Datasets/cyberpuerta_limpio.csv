@@ -1,0 +1,305 @@
+Precio,Stock,GPU,RAM,ROM,SO,CPU,Nombre
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
+20679.0,1,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+9829.0,20,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Lenovo ThinkCentre neo 50s Gen 4
+40439.0,1,NVIDIA GeForce RTX 4060 TI,32GB,2TB SSD,Windows 11 Prueba,Intel Core i9-14900KF 6GHz,Computadora Gamer Xtreme PC Gaming CM-50229
+33849.0,6,NVIDIA GeForce RTX 4070 SUPER,32GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 7 8700F,Computadora Gamer Digital Master Pc Silver 400 V1.1
+8799.0,14,N/A,8GB,256GB SSD,Windows 11 Pro 64,Intel Core i3-13100 3,Computadora Kit HP 280 G9R
+13179.0,64,N/A,8GB,512GB SSD,Windows 11 Pro 64,Intel Core i5-12500T 2,Computadora Dell OptiPlex 7010 MFF
+21239.0,87,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700T 1,Computadora Lenovo ThinkCentre M70q Gen 4
+13989.0,1,AMD Radeon 780M,32GB,1TB SSD,Windows 11 Pro,AMD Ryzen 7 8700G,Computadora Grizzly PG-AMD059
+17829.0,114,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit Lenovo ThinkCentre neo 50s
+22929.0,2,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-12700 2,Computadora HP Elite 800 G9 SFF
+15519.0,2,NVIDIA GeForce RTX 4060,16GB,1TB SSD,Windows 11 Pro Prueba,AMD Ryzen 5 5500,Computadora Gamer Digital Master Pc Silver 100 V1.0
+16899.0,23,N/A,16GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Kit HP Pro 280 G9R
+46909.0,14,NVIDIA GeForce RTX 4070,32GB,1TB HDD,Windows 11 Home 64,Intel Core i7-13700F 2,Computadora Gamer Alienware R16
+21819.0,6,N/A,32GB,512GB SSD,Windows 11 Pro 64,Intel Core i7-14700 2,Computadora Kit Dell Inspiron 3030 SFF
+17609.0,7,N/A,32GB,1TB SSD,Windows 11 Pro 64,Intel Core i7-13700 2,Computadora Lenovo ThinkCentre M70s Gen 4
+17179.0,461,N/A,16GB,512GB SSD,Windows 11 Pro,Intel Core i5-14500 2,Computadora Dell OptiPlex 7020 SFF
